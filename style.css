@@ -1,0 +1,46 @@
+h1{
+	font-family: Georgia,sans-serif;
+	color:black;
+	background-color:white;
+	
+}
+
+h2 {
+  color:blue;
+  font-family:Times New Roman;
+  font-size: 100px;
+  
+
+}
+a:hover{
+	color:green;
+
+}
+html { 
+	background-image: url( Images/tile.png);
+}
+
+body{
+	background-color:lightblue;
+	image-size:100%;
+	background-image: url("realistic.jpg");
+    background-repeat: no-repeat;
+	background-position:center;
+}
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+li a {
+	display: block;
+	width:60px
+
+}
+li a:hover {
+	background-color:grey;
+	color:white;
+}
+li a{
+	text-decoration:none;
+}
