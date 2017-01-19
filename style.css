@@ -23,7 +23,7 @@ html {
 body{
 	background-color:lightblue;
 	image-size:100%;
-	background-image: url("realistic.jpg");
+	background-image: url("background.gif");
     background-repeat: no-repeat;
 	background-position:center;
 }
