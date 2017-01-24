@@ -16,8 +16,9 @@ a:hover{
 	color:green;
 
 }
-html { 
-	background-image: url( Images/tile.png);
+body { 
+	background-image: url("http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64898.jpg");
+	background-size:cover;
 }
 
 body{
