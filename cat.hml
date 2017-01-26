@@ -3,4 +3,12 @@
   <head>
     <title>CATS!</title>
   </head>
+  <body>
+  <div class="hero">
+  <p>Look at these amazing cats!
+  Aren't they just amazing! Look how gorgeous they are!
+  </p>
+  <a href="google.com">I just decided to do this here!</a>
+  </body>
+  </div>
 </html>
