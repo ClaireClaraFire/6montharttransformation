@@ -58,3 +58,8 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: red;
 }
+p{
+	background-color:light-blue;
+	border:2px solid black;
+	padding:40px 50px 60px 40px
+}
