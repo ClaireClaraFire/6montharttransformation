@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <link href="cat.css" rel="stylesheet" type="text/css">
     <title>CATS!</title>
   </head>
   <body>
