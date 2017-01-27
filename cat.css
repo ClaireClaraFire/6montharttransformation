@@ -1,3 +1,6 @@
 .hero {
     background-image:url("https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg"); 
 }
+body {
+    background-image: url("Original");
+}
