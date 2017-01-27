@@ -16,16 +16,14 @@ a:hover{
 	color:green;
 
 }
-body { 
-	background-image: url("https://drivenlocal.com/wp-content/uploads/2015/10/Material-design.jpg");
-	background-size:cover;
+
 }
 
-body{
+body {
 	background-color:lightblue;
 	image-size:100%;
-	background-image: url("background.gif");
-        background-repeat: no-repeat;
+	background-image: url("https://drivenlocal.com/wp-content/uploads/2015/10/Material-design.jpg");
+	background-repeat: no-repeat;
 	background-position:center;
 }
 ul {
