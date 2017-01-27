@@ -25,7 +25,7 @@ body{
 	background-color:lightblue;
 	image-size:100%;
 	background-image: url("background.gif");
-    background-repeat: no-repeat;
+        background-repeat: no-repeat;
 	background-position:center;
 }
 ul {
