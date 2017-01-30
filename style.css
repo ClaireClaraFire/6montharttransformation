@@ -38,8 +38,8 @@ li a {
 
 }
 li a:hover {
-	background-color:grey;
-	color:white;
+	background-color:red;
+
 }
 li a{
 	text-decoration:none;
