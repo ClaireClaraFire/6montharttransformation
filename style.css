@@ -54,7 +54,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-image: https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg;
+background-image:("https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg");
 }
 p{
 	background-color:light-blue;
