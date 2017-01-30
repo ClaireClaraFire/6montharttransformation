@@ -38,6 +38,7 @@ ul {
 li a {
 	display: block;
 	width:60px
+	border-radius:8px;
 
 }
 li a:hover {
