@@ -39,15 +39,15 @@ li a {
 	display: block;
 	width:60px
 	border-radius:8px;
+	text-decoration:none;
+	float:left;
 
 }
 li a:hover {
 	background-color:red;
 
 }
-li a{
-	text-decoration:none;
-}
+
 
 a:link, a:visited {
     background-color: #f44336;
