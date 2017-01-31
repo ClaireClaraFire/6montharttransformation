@@ -35,6 +35,8 @@ ul {
 }
 .limenu {
 	float: left;
+	position:relative;
+	top:30px;
 }
 li a {
 	display: block;
