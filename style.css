@@ -48,6 +48,7 @@ li a {
 	border-radius:8px;
 	text-decoration:none;
 	float:left;
+	display: inline-block;
 
 }
 li a:hover {
