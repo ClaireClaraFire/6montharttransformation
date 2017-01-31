@@ -40,7 +40,7 @@ ul {
 	float: left;
 	position:relative;
 	top:30px;
-	-webkit-transform: rotateX(150deg);
+	
 }
 li a {
 	display: block;
