@@ -28,7 +28,7 @@ body {
 	background-repeat: no-repeat;
 	background-position:center;
 }
-#hifive { 
+#hifive li { 
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
