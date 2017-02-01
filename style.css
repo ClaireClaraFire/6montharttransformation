@@ -15,12 +15,11 @@ h2 {
   
 
 }
-a:hover{
-	color:green;
 
-}
 
-}
+
+
+
 
 body {
 	background-color:lightblue;
@@ -29,50 +28,19 @@ body {
 	background-repeat: no-repeat;
 	background-position:center;
 }
-ul {
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	overflow: hidden;
-	
-}
-.limenu {
-	float: left;
-	position:relative;
-	top:30px;
-	
-}
-li a {
-	display: block;
-	width:60px
-	border-radius:8px;
-	text-decoration:none;
-	float:left;
-	display: inline-block;
-
-}
-li a:hover {
-	background-color:red;
-
-}
-
-
-a:link, a:visited {
-    background-color: #f44336;
-    background-image: 
+#hifive { 
+    background-color: #4CAF50; /* Green */
+    border: none;
     color: white;
-    padding: 14px 25px;
-    text-align: center; 
+    padding: 15px 32px;
+    text-align: center;
     text-decoration: none;
     display: inline-block;
-    
+    font-size: 16px;
+    list-style:none;
 }
 
-a:hover, a:active {
-background-image:("https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg");
-}
-p{
-	background-color:light-blue;
-	border:2px solid black;
-	padding:40px 50px 60px 40px
-}
+	
+
+	
+
