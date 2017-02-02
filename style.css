@@ -40,6 +40,10 @@ body {
     list-style:none;
     float:left;
 }
+#hifive li a:hover {
+     color: black;
+     background-color: white; 
+     }
 
 	
 
