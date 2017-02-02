@@ -45,7 +45,7 @@ body {
 #hifive li ul{
 	float: left;
 }
-#hifive li a:hover {
+li a:hover {
      color: black;
      background-color: white; 
      }
