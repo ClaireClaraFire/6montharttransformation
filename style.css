@@ -34,12 +34,9 @@ body {
     color: white;
     padding: 15px 32px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     font-size: 16px;
     list-style-type:none;
-    float:left;
-	
 }
 
 #hifive li ul{
@@ -48,7 +45,10 @@ body {
 #hifive li a{
 	text-decoration:none;
 	}
+li{
+	float:left;
 }
+
 li a:hover {
      color: black;
      background-color: white; 
